@@ -1,2 +1,4 @@
 I am using https://learn.microsoft.com/en-us/training/modules/introduction-to-github/2-what-is-github to relearn how to use github
-trying to commint change to a branch
+
+
+still testing out branches an looking to ccommit this change, submit ad pull request and then merge these files back together. I had to resolve an issues
